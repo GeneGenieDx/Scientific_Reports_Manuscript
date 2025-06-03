@@ -1,0 +1,116 @@
+Sample No.,Sample type,Pathological diagnosis,Stage,Gender,Age,GAPDH ,TGFBI,RPS10,CEMIP,SLCO4A1,MMP11,GDF15,ETV4,NME2,COL11A1,TRIB3,SIM2,MMP3,MMP1,CXCL8,REG1A,KRT80,CEL,COMP,DPEP1,CPNE7
+456 ,CRC,moderately differentiated adenocarcinoma of the rectum,III,Male,68,23.68 ,28.26 ,31.79 ,31.60 ,33.20 ,37.22 ,25.50 ,31.32 ,28.55 ,/,28.89 ,33.86 ,28.65 ,27.80 ,18.50 ,31.40 ,35.22 ,27.44 ,35.07 ,28.36 ,30.23 
+503 ,CRC,Moderately differentiated adenocarcinoma of sigmoid colon,I,Female,66,25.78 ,30.91 ,34.58 ,35.53 ,/,37.42 ,28.43 ,33.23 ,31.72 ,/,31.33 ,36.79 ,/,31.12 ,23.54 ,34.88 ,37.02 ,33.56 ,/,/,31.86 
+532 ,CRC,moderately differentiated adenocarcinoma of the rectum,III,Female,68,32.53 ,36.26 ,35.71 ,/,/,/,/,/,33.32 ,/,/,38.01 ,/,/,33.67 ,35.37 ,33.84 ,33.58 ,/,/,36.86 
+533 ,CRC,Rectal protuberance moderately differentiated adenocarcinoma,III,Male,60,26.35 ,28.89 ,33.30 ,31.23 ,34.00 ,35.02 ,27.77 ,30.89 ,30.05 ,/,30.02 ,/,31.61 ,31.00 ,22.94 ,30.28 ,33.54 ,31.89 ,/,30.31 ,28.73 
+534 ,CRC,Infiltrating ulcerative poorly differentiated adenocarcinoma of the rectum,I,Female,74,26.43 ,32.97 ,35.44 ,33.42 ,36.57 ,/,28.37 ,32.96 ,29.20 ,/,29.62 ,31.54 ,/,32.91 ,20.55 ,31.58 ,31.36 ,34.10 ,/,/,30.63 
+535 ,CRC,Infiltrating ulcerative moderately differentiated adenocarcinoma of the rectum,II,Male,65,27.21 ,36.66 ,34.97 ,/,38.13 ,/,30.91 ,/,33.36 ,/,/,38.12 ,/,37.48 ,29.61 ,35.51 ,35.97 ,35.97 ,/,35.91 ,/
+536 ,CRC,Ulcerative moderately differentiated adenocarcinoma of sigmoid colon,II,Female,59,23.35 ,26.73 ,31.32 ,28.93 ,34.48 ,33.11 ,24.95 ,28.83 ,27.11 ,/,27.14 ,31.14 ,28.35 ,27.65 ,20.34 ,33.15 ,32.98 ,31.12 ,34.93 ,26.91 ,26.77 
+537 ,CRC,Infiltrating ulcerative moderately differentiated adenocarcinoma of the sigmoid colon,I,Female,63,29.24 ,38.05 ,38.04 ,/,/,/,/,37.06 ,33.95 ,/,/,/,/,37.31 ,27.65 ,33.60 ,/,37.81 ,/,/,/
+538 ,CRC,"Ulceratively differentiated adenocarcinoma of the ascending colon, ulceratively differentiated adenocarcinoma of the sigmoid colon",III,Female,69,26.61 ,34.92 ,33.00 ,34.80 ,/,/,/,37.11 ,31.69 ,/,31.76 ,37.68 ,/,34.20 ,28.73 ,32.28 ,34.03 ,32.95 ,/,/,35.57 
+540 ,CRC,Rectal cancer protuberant moderately differentiated adenocarcinoma,III,Female,63,28.37 ,34.68 ,35.84 ,/,/,/,30.20 ,35.22 ,30.80 ,/,/,37.61 ,/,33.08 ,25.04 ,35.46 ,38.13 ,36.65 ,/,/,36.23 
+541 ,CRC,Ulcerative moderately differentiated adenocarcinoma of the transverse colon,II,Male,57,26.53 ,32.69 ,36.13 ,33.69 ,/,/,/,32.41 ,30.76 ,/,32.30 ,36.93 ,33.99 ,33.19 ,25.24 ,31.26 ,35.95 ,35.08 ,37.29 ,32.33 ,36.17 
+542 ,CRC,moderately differentiated adenocarcinoma of the rectum,II,Male,69,26.10 ,32.24 ,36.00 ,/,/,39.79 ,/,36.07 ,30.36 ,/,32.23 ,/,/,31.69 ,25.26 ,31.60 ,36.94 ,38.25 ,/,/,/
+543 ,CRC,Infiltrating ulcerative moderately differentiated adenocarcinoma of the ascending colon,III,Male,65,28.99 ,34.28 ,37.76 ,/,/,/,/,36.49 ,34.00 ,/,/,/,34.93 ,34.33 ,25.97 ,32.30 ,35.93 ,36.60 ,/,34.97 ,/
+557 ,CRC,1. Sigmoid colon tumor 2. Rectal polyps,II,Male,59,25.27 ,32.68 ,32.60 ,33.76 ,37.83 ,/,29.27 ,35.59 ,31.79 ,/,30.98 ,35.06 ,/,32.25 ,22.89 ,30.94 ,32.77 ,33.90 ,/,32.41 ,32.74 
+559 ,CRC,Rectal tumors,III,Male,72,27.16 ,31.15 ,33.75 ,32.21 ,36.17 ,/,28.70 ,33.17 ,30.87 ,/,30.85 ,35.90 ,33.39 ,32.16 ,25.44 ,34.46 ,33.71 ,37.43 ,36.91 ,33.46 ,31.96 
+564 ,CRC,Ascending colon mass,none,Male,58,29.11 ,36.53 ,37.06 ,/,/,/,/,/,35.20 ,/,/,/,/,36.03 ,28.24 ,30.69 ,35.55 ,/,/,32.96 ,38.47 
+568 ,CRC,Ulcerative moderately differentiated adenocarcinoma of the colon,I,Male,77,25.88 ,30.03 ,35.73 ,33.23 ,35.84 ,35.87 ,27.94 ,32.59 ,28.85 ,/,29.49 ,34.65 ,33.80 ,31.19 ,24.00 ,31.14 ,32.72 ,36.09 ,/,30.10 ,32.15 
+569 ,CRC,Ulcerative moderately differentiated tubular adenocarcinoma,IV,Female,58,25.84 ,35.00 ,38.23 ,/,/,/,/,34.02 ,32.18 ,/,32.00 ,/,/,32.52 ,23.99 ,30.71 ,33.71 ,/,/,33.47 ,37.41 
+571 ,CRC,moderately differentiated adenocarcinoma,IV,Male,60,22.56 ,26.47 ,31.31 ,29.53 ,34.57 ,34.31 ,24.81 ,29.27 ,26.86 ,/,27.53 ,37.63 ,26.63 ,26.67 ,21.43 ,27.53 ,29.46 ,32.33 ,35.77 ,27.19 ,30.51 
+575 ,CRC,moderately differentiated adenocarcinoma,III,Male,51,27.84 ,36.70 ,31.23 ,/,/,/,/,37.05 ,32.80 ,/,33.53 ,/,/,35.21 ,30.28 ,33.98 ,34.93 ,/,/,/,38.19 
+447,CRC,Rectal moderately differentiated adenocarcinoma,II,Male,65,29.30 ,33.40 ,34.71 ,/,/,/,/,/,31.48 ,/,35.24 ,36.92 ,/,34.46 ,28.16 ,32.96 ,33.06 ,36.03 ,/,/,36.86 
+448,CRC,Rectal protruding moderately differentiated adenocarcinoma,II,Male,74,20.86 ,23.77 ,28.72 ,29.71 ,32.77 ,30.63 ,/,27.03 ,22.56 ,37.01 ,27.55 ,32.24 ,26.56 ,25.45 ,15.56 ,27.33 ,29.62 ,30.62 ,31.82 ,36.03 ,33.23 
+451,CRC,Rectal moderately differentiated adenocarcinoma,III,Female,72,25.66 ,27.16 ,32.51 ,31.58 ,37.37 ,36.77 ,/,32.89 ,27.36 ,/,30.30 ,34.83 ,30.90 ,29.76 ,21.38 ,30.82 ,29.71 ,35.88 ,/,/,35.44 
+453,CRC,"Cecum mass, moderately differentiated adenocarcinoma",IV,Male,75,25.08 ,26.54 ,32.74 ,31.21 ,36.89 ,/,/,30.97 ,26.63 ,38.96 ,29.65 ,33.81 ,29.65 ,28.59 ,19.72 ,31.42 ,30.67 ,34.03 ,37.14 ,/,31.75 
+454,CRC,"Cecum mass, high-grade dysplasia in adenomatous epithelium, focal suspicion of carcinoma",I,Male,65,29.22 ,36.34 ,37.02 ,/,/,/,/,35.72 ,30.20 ,/,37.37 ,/,/,37.59 ,28.75 ,/,37.96 ,/,/,/,/
+455,CRC,"Rectal mass, moderately differentiated adenocarcinoma",I,Female,48,28.74 ,35.70 ,/,/,/,/,/,36.01 ,30.10 ,/,36.33 ,/,/,36.94 ,27.44 ,34.24 ,34.62 ,/,/,/,/
+500,CRC,Rectal moderately differentiated adenocarcinoma,III,Male,54,30.49 ,/,/,/,/,/,/,36.05 ,34.36 ,/,38.15 ,/,/,/,31.20 ,36.00 ,38.39 ,/,/,/,/
+501,CRC,Cecum moderately differentiated adenocarcinoma,I,Male,63,30.56 ,37.58 ,/,/,/,/,/,/,32.33 ,/,38.09 ,/,/,37.66 ,29.96 ,35.36 ,33.61 ,/,/,/,/
+502,CRC,Rectal moderately differentiated adenocarcinoma,III,Male,67,26.83 ,30.39 ,34.47 ,/,36.94 ,/,/,36.85 ,28.32 ,/,32.84 ,36.61 ,/,32.86 ,24.83 ,35.25 ,34.94 ,/,/,/,37.32 
+531,CRC,Cecum infiltrative ulcerative-type moderately differentiated adenocarcinoma,II,Male,66,24.79 ,27.36 ,32.17 ,31.83 ,35.54 ,34.90 ,27.63 ,31.55 ,26.15 ,/,29.35 ,34.62 ,31.52 ,29.50 ,18.82 ,30.86 ,31.60 ,30.67 ,37.22 ,/,34.72 
+539,CRC,Rectal ulcerative-type moderately differentiated adenocarcinoma,I,Female,52,31.23 ,/,/,/,/,/,/,/,33.14 ,/,/,/,/,/,30.66 ,/,38.59 ,/,/,/,/
+563,CRC,"Right colon, protruding moderately differentiated tubular adenocarcinoma, histological grade 2, tumor maximum diameter 45mm, maximum thickness 12mm.",I,Male,77,26.20 ,30.91 ,33.15 ,/,/,/,28.60 ,33.68 ,28.54 ,/,32.43 ,/,33.71 ,29.91 ,21.06 ,32.29 ,35.30 ,35.51 ,/,/,36.45 
+565,CRC,"Cecum and mass, consistent with moderately differentiated tubular adenocarcinoma, histological grade G2; tumor maximum diameter approximately 50mm.",IV,Male,68,23.67 ,28.26 ,32.41 ,32.69 ,35.98 ,35.59 ,27.12 ,30.20 ,26.37 ,/,30.87 ,/,29.59 ,28.83 ,22.55 ,32.20 ,32.71 ,34.98 ,/,/,35.22 
+102 ,AA,"Gastric body polyps (hyperplastic polyps) Rectal polyps are tubular adenoma grade I (low-grade tubular adenoma, low-grade intraepithelial neoplasia)",NA,Female,43,27.45 ,/,33.60 ,/,34.93 ,/,29.02 ,/,29.70 ,/,32.67 ,/,/,37.74 ,23.52 ,34.10 ,31.29 ,38.50 ,/,/,/
+103 ,AA,"transverse colon polyps, tubular epithelial mucosa of the large intestine-Villous hyperplasia, consistent with tubular villous adenoma grade I-II (low-grade intraepithelial neoplasia),",NA,Female,37,30.19 ,/,/,/,/,/,/,/,34.35 ,/,/,/,/,/,29.12 ,39.06 ,36.62 ,/,/,/,/
+119 ,AA,none,NA,Female,49,27.41 ,32.85 ,37.27 ,35.53 ,/,/,/,37.07 ,32.88 ,/,31.82 ,/,/,34.87 ,30.27 ,33.87 ,33.04 ,36.50 ,/,/,/
+178 ,AA,"Villous-tubular adenoma, small surface area of high-grade intraepithelial neoplasia, individual glands pushing into the submucosa",NA,Male,70,25.72 ,27.47 ,31.28 ,30.18 ,35.91 ,35.89 ,27.09 ,32.15 ,29.17 ,/,29.96 ,33.23 ,/,32.06 ,26.81 ,34.15 ,31.12 ,32.85 ,36.22 ,31.02 ,31.76 
+212 ,AA,"Tubular adenoma of the ascending colon; epithelial hyperplasia of the descending colon mucosa with mild atypia, accompanied by ulceration, and no definite malignant component",NA,Male,55,27.45 ,33.90 ,32.87 ,34.83 ,/,/,/,36.24 ,33.44 ,/,34.38 ,/,/,32.58 ,23.42 ,33.41 ,33.45 ,35.27 ,/,/,37.53 
+225 ,AA,"(Lectosigmoid junction polyps) Hyperplasia of glands in the large intestinal mucosa, decreased secretion of glandular mucus, and some glands showing mild atypical hyperplasia. The lesions were consistent with tubular adenoma (low-grade intraepithelial neoplasia).",NA,Male,36,28.44 ,/,36.59 ,36.00 ,/,/,/,/,32.35 ,/,32.01 ,/,/,37.26 ,32.38 ,36.89 ,36.48 ,37.43 ,/,/,/
+251 ,AA,"(Descending colon, sigmoid colon, rectosigmoid junction polyps): The structures of the tissues submitted for examination are similar. The glandular hyperplasia of the large intestinal mucosa is arranged in a tubular villous shape, the glandular mucus secretion is reduced, and some glands show mild to moderate dysplasia; no severe atypia is seen. Proliferation area. The lesions were consistent with tubulovillous adenoma grade I-II.",NA,Male,58,26.55 ,35.38 ,35.50 ,/,/,/,/,36.69 ,31.14 ,/,33.31 ,36.76 ,/,34.74 ,28.89 ,35.63 ,34.29 ,33.92 ,/,/,35.19 
+292 ,AA,"(Sigmoid colon polyps) lesions combined with clinical findings are consistent with grade I tubular adenoma. Large intestine mucosal gland hyperplasia, glandular mucus secretion decreased, and some glands showed mild dysplasia.",NA,Female,58,29.36 ,38.57 ,36.72 ,/,/,/,/,/,34.93 ,/,/,/,/,36.80 ,33.64 ,36.79 ,35.46 ,36.82 ,/,/,/
+294 ,AA," A (splenic flexure polyp) tubular adenoma grade I. Large intestine mucosal gland hyperplasia, glandular mucus secretion decreased, and some glands showed mild dysplasia.",NA,Male,48,26.81 ,34.89 ,33.99 ,36.01 ,37.48 ,/,/,36.55 ,32.38 ,/,34.06 ,/,/,36.30 ,31.18 ,36.02 ,35.72 ,34.05 ,37.77 ,/,36.93 
+297 ,AA,"(Sigmoid polyps) Tubular adenoma grade II. The examination showed glandular hyperplasia in the large intestinal mucosa, decreased mucus secretion from the glands, and some glands showed moderate dysplasia.",NA,Female,41,31.99 ,/,30.25 ,/,37.29 ,/,/,/,32.03 ,/,32.97 ,/,/,/,28.87 ,38.24 ,35.21 ,38.51 ,/,/,/
+298 ,AA,"(Descending colon polyps) The glandular hyperplasia of the large intestine mucosa is arranged in a tubular villous shape, the glandular mucus secretion is reduced, and some glands show mild to moderate dysplasia; no severe dysplasia areas are seen. It was consistent with tubulovillous adenoma grade I-II, and no lesions were found on the resection margin and base.",NA,Female,43,26.29 ,33.93 ,36.41 ,/,/,/,/,37.21 ,32.88 ,/,/,/,/,34.36 ,31.65 ,33.89 ,33.97 ,37.27 ,/,33.20 ,38.15 
+299 ,AA,"(Rectal mass) Glandular hyperplasia of the large intestinal mucosa, decreased glandular mucus secretion, mild dysplasia of some glands, and infiltration of large amounts of neutrophils into the interstitium. Combined with clinical practice, it is consistent with grade I tubular adenoma.",NA,Male,41,29.99 ,/,37.69 ,/,/,/,/,37.49 ,33.75 ,/,/,/,/,/,34.31 ,/,/,/,/,/,/
+300 ,AA," (Sigmoid colon polyps): All glands in the large intestine mucosa are hyperplasia and arranged in a tubular-villous manner, glandular mucus secretion is reduced, and some glands show mild to moderate dysplasia; no severe dysplasia areas are seen. The lesions were consistent with tubulovillous adenoma grade I-II.",NA,Male,52,26.65 ,31.78 ,36.48 ,/,/,/,/,34.81 ,32.86 ,/,/,/,/,32.94 ,25.48 ,33.69 ,36.52 ,/,/,/,/
+301 ,AA,"(Sigmoid colon mucosa): The glandular hyperplasia of the large intestinal mucosa is arranged in a tubular villous shape, the glandular mucus secretion is reduced, and some glands show mild to moderate dysplasia; no severe dysplasia areas are seen. The lesions were consistent with tubulovillous adenoma grade I-II.",NA,Male,37,27.68 ,32.59 ,36.80 ,/,/,/,/,36.77 ,32.93 ,/,/,/,/,34.14 ,25.61 ,33.35 ,36.92 ,/,/,/,/
+306 ,AA," (Descending colon polyps) Grade I tubular adenoma. The large intestinal mucosa showed chronic inflammatory changes, local glandular mucus secretion decreased, and the glands showed mild atypical hyperplasia.",NA,Male,47,29.27 ,35.50 ,36.13 ,/,/,/,/,/,33.82 ,/,33.81 ,37.85 ,/,36.59 ,32.02 ,36.12 ,34.47 ,36.84 ,/,/,37.48 
+307 ,AA,"(Transverse colon polyps) Two pieces of biopsy tissue were sent for examination, one of which was a hyperplastic polyp and the other was a grade I tubular adenoma.",NA,Female,52,26.86 ,37.54 ,37.67 ,/,/,/,30.29 ,36.58 ,33.09 ,/,32.76 ,/,/,35.24 ,29.96 ,35.50 ,35.19 ,37.55 ,/,33.15 ,/
+308 ,AA," (Ascending colon polyps, splenic flexure polyps, descending colon polyps) Tubular adenoma grade I.",NA,Male,49,30.01 ,37.89 ,37.41 ,/,/,/,/,/,35.34 ,/,34.50 ,/,/,/,35.41 ,/,37.87 ,38.78 ,38.13 ,/,/
+334 ,AA,"(Ascending colon polyps, transverse colon polyps, sigmoid colon polyps, rectal polyps) Tubular adenoma grade I. (Descending colon polyps) tubular adenoma grade II.",NA,Male,30,29.69 ,36.62 ,33.86 ,35.22 ,/,/,/,/,35.46 ,/,/,/,/,39.10 ,33.62 ,35.49 ,36.20 ,38.79 ,/,/,/
+338 ,AA,"(sigmoid polyps)Tubular villous adenoma grade I-II, accompanied by focal severe dysplasia; the resection margin of the pedicle was not visibleLesion involved.",NA,Male,48,28.85 ,34.20 ,36.66 ,35.26 ,/,/,/,/,33.01 ,/,34.66 ,37.87 ,/,35.92 ,32.37 ,37.55 ,35.92 ,34.97 ,/,31.39 ,35.94 
+366 ,AA,"(Ascending colon polyp) Hyperplastic polyp. B (transverse colon polyp) has two polyps, one is a hyperplastic polyp;tubular adenoma,Iclass. C(rectal polyps) Hyperplastic polyps.",NA,Male,47,28.50 ,37.36 ,37.49 ,/,/,/,/,36.65 ,32.83 ,/,32.90 ,37.90 ,/,36.73 ,31.58 ,34.30 ,36.10 ,/,/,/,/
+7,AA,"Ascending colon polyp, descending colon polyp (tubular adenoma Grade I-II)",NA,Male,54,29.01 ,36.98 ,36.32 ,/,/,/,/,/,31.01 ,/,37.38 ,37.78 ,/,/,32.92 ,34.28 ,33.10 ,37.89 ,/,/,/
+47,AA,Cecum polyp tubular villous adenoma Grade I-II (low-grade dysplasia),NA,Male,54,32.59 ,/,/,/,/,/,/,/,37.52 ,/,/,/,/,/,34.42 ,/,36.15 ,/,/,/,/
+59,AA,Transverse colon polyp (tubular adenoma Grade I) descending colon polyp (hyperplastic polyp),NA,Male,33,32.69 ,/,/,/,/,/,/,/,34.56 ,/,/,/,/,39.23 ,35.24 ,34.51 ,34.32 ,/,/,/,/
+66,AA,"Cecum polyp consistent with tubular adenoma Grade I (low-grade tubular adenoma, low-grade dysplasia)",NA,Male,55,31.91 ,/,/,/,/,/,/,/,34.55 ,/,38.02 ,/,/,/,33.83 ,34.87 ,36.51 ,/,/,/,/
+252,AA,"Ascending colon polyp, lesion consistent with tubular villous adenoma Grade I-II.",NA,Male,38,29.97 ,36.15 ,36.05 ,/,/,/,/,38.22 ,32.01 ,/,33.33 ,/,/,34.78 ,26.90 ,/,33.44 ,38.26 ,/,/,/
+278,AA,"Transverse colon polyp, lesion clinically consistent with tubular adenoma Grade I.",NA,Male,34,29.41 ,34.07 ,33.88 ,/,/,/,/,38.02 ,31.20 ,/,34.17 ,/,/,33.22 ,29.60 ,32.88 ,34.35 ,35.84 ,/,/,/
+576,AA,"Rectal polyp, tubular villous adenoma, with low-grade dysplasia; clear margin at the stalk.",NA,Male,46,27.78 ,36.03 ,36.12 ,/,/,/,/,37.37 ,30.14 ,/,36.15 ,/,/,31.81 ,28.14 ,29.75 ,34.92 ,/,/,38.20 ,/
+582,AA,"""A (rectal mass) tubular villous adenoma, with high-grade dysplasia; superficial tissue, no clear evidence of infiltration;
+B (ascending colon polyp) tubular villous adenoma, with low-grade dysplasia.""",NA,Male,81,25.68 ,32.02 ,32.56 ,34.03 ,38.22 ,36.13 ,/,34.63 ,28.63 ,/,31.87 ,36.85 ,/,31.87 ,24.64 ,33.23 ,33.04 ,32.34 ,/,/,35.14 
+N-438,Col_Neg,,NA,Female,58,30.85 ,/,/,/,/,/,/,/,32.41 ,/,36.22 ,/,/,/,31.91 ,37.49 ,38.23 ,/,/,/,/
+N-439,Col_Neg,,NA,Female,54,28.92 ,/,36.03 ,/,/,/,/,37.56 ,31.83 ,/,36.51 ,/,/,/,32.08 ,33.83 ,36.16 ,37.17 ,/,/,/
+N-440,Col_Neg,,NA,Female,48,27.28 ,37.37 ,34.46 ,/,/,/,/,/,29.41 ,/,33.45 ,/,/,38.12 ,30.25 ,34.03 ,33.28 ,36.78 ,/,/,/
+N-441,Col_Neg,,NA,Male,54,32.85 ,/,/,/,/,/,/,/,34.38 ,/,/,/,/,/,33.21 ,36.30 ,35.31 ,/,/,/,/
+N-442,Col_Neg,,NA,Female,42,29.98 ,38.12 ,39.01 ,/,/,/,/,/,32.29 ,/,35.56 ,/,/,/,33.10 ,35.85 ,33.55 ,33.12 ,/,/,/
+N-443,Col_Neg,,NA,Female,54,30.50 ,/,/,/,/,/,/,/,33.08 ,/,/,/,/,37.24 ,32.83 ,36.63 ,36.03 ,38.31 ,/,/,/
+N-444,Col_Neg,,NA,Male,49,28.30 ,37.56 ,34.22 ,/,/,/,/,/,31.20 ,/,/,36.91 ,/,32.80 ,30.76 ,29.65 ,32.88 ,31.17 ,/,/,/
+N-445,Col_Neg,,NA,Female,41,30.04 ,/,/,/,/,/,/,/,31.70 ,/,/,/,/,37.11 ,28.57 ,35.80 ,35.02 ,/,/,/,/
+N-446,Col_Neg,,NA,Male,64,30.41 ,37.15 ,37.45 ,/,/,/,/,38.46 ,31.59 ,/,36.63 ,36.97 ,/,37.11 ,34.08 ,33.71 ,33.11 ,38.49 ,/,/,/
+N-447,Col_Neg,,NA,Male,62,29.44 ,/,37.40 ,/,/,/,/,36.72 ,32.66 ,/,35.99 ,36.48 ,/,37.13 ,34.14 ,34.52 ,32.30 ,38.29 ,/,/,/
+N-448,Col_Neg,,NA,Male,66,30.98 ,/,/,/,/,/,/,/,33.16 ,/,36.66 ,/,/,37.68 ,32.86 ,34.52 ,34.74 ,/,/,/,/
+N-449,Col_Neg,,NA,Female,54,30.37 ,37.21 ,37.04 ,/,/,/,/,37.18 ,33.08 ,/,36.93 ,/,/,36.93 ,32.10 ,36.61 ,36.99 ,/,/,/,/
+N-450,Col_Neg,,NA,Female,53,29.28 ,38.11 ,35.17 ,/,/,/,/,/,31.96 ,/,37.20 ,/,/,/,30.88 ,35.34 ,35.97 ,36.97 ,37.41 ,/,/
+N-451,Col_Neg,,NA,Female,65,31.60 ,/,/,/,/,/,/,/,32.53 ,/,/,/,/,37.35 ,31.35 ,37.91 ,36.58 ,/,/,/,/
+N-452,Col_Neg,,NA,Male,55,29.56 ,37.11 ,36.97 ,/,/,/,/,/,32.34 ,/,35.21 ,/,/,35.33 ,30.82 ,30.89 ,35.11 ,36.85 ,/,/,/
+N-453,Col_Neg,,NA,Female,49,31.17 ,/,39.18 ,/,/,/,/,/,33.97 ,/,36.90 ,/,/,39.11 ,28.55 ,35.97 ,33.90 ,/,/,/,/
+N-454,Col_Neg,,NA,Male,41,28.71 ,37.30 ,36.85 ,/,/,/,/,/,32.18 ,/,36.23 ,/,/,36.15 ,28.80 ,32.07 ,32.69 ,38.11 ,/,/,/
+N-455,Col_Neg,,NA,Female,52,27.71 ,36.79 ,36.78 ,/,37.34 ,/,/,36.13 ,31.72 ,/,35.39 ,36.49 ,/,35.86 ,29.10 ,35.20 ,32.33 ,37.88 ,/,/,/
+368,CON,"Ascending colon mass, combined with immunohistochemistry results, consistent with high-grade B-cell lymphoma, diffuse large B-cell lymphoma, GCB-type.",NA,Female,51,29.55 ,36.12 ,/,/,/,/,/,/,32.59 ,/,37.11 ,/,/,35.21 ,26.41 ,/,/,/,/,/,/
+408,CON,Fracture,NA,Female,38,26.40 ,36.48 ,31.90 ,/,37.85 ,/,/,36.21 ,30.56 ,/,33.79 ,/,/,33.88 ,28.20 ,32.07 ,33.91 ,33.09 ,/,/,/
+410,CON,"Rash, abdominal pain",NA,Female,76,26.67 ,36.37 ,36.35 ,/,/,/,/,/,29.59 ,/,31.88 ,/,39.22 ,34.92 ,27.92 ,29.87 ,/,32.89 ,/,/,/
+411,CON,Cerebral infarction,NA,Male,60,27.40 ,37.63 ,35.22 ,/,37.58 ,/,/,36.82 ,29.40 ,/,32.92 ,/,/,34.94 ,26.84 ,34.43 ,34.98 ,30.92 ,/,/,/
+414,CON,Cerebral infarction,NA,Male,81,27.80 ,35.82 ,34.87 ,/,/,/,/,/,30.21 ,/,33.92 ,/,/,34.23 ,30.84 ,33.17 ,31.40 ,37.30 ,/,/,/
+459,CON,Serous otitis media,NA,Female,53,26.26 ,34.29 ,34.43 ,/,38.01 ,/,/,/,28.88 ,/,33.37 ,/,/,36.74 ,24.78 ,33.94 ,33.08 ,36.90 ,35.36 ,/,/
+460,CON,Chronic suppurative otitis media,NA,Male,51,30.00 ,/,38.52 ,/,/,/,/,/,32.33 ,/,36.11 ,/,/,38.24 ,31.63 ,34.03 ,35.19 ,34.48 ,/,/,/
+461,CON,Skin lesion,NA,Male,40,30.49 ,/,36.91 ,/,/,/,/,37.28 ,33.62 ,/,37.00 ,37.16 ,/,37.25 ,32.07 ,35.40 ,33.71 ,37.78 ,/,/,/
+470,CON,"Behcet's disease, other postoperative disorders of the nervous system, coronary atherosclerosis",NA,Male,46,32.83 ,/,/,/,/,/,/,/,34.53 ,/,38.08 ,/,/,/,36.88 ,/,34.54 ,/,/,/,/
+471,CON,"Rheumatoid arthritis, osteoporosis",NA,Male,74,29.82 ,37.14 ,37.17 ,/,/,/,/,/,30.85 ,/,34.31 ,/,/,/,35.25 ,35.65 ,33.33 ,/,/,/,/
+473,CON,"Lumbar spondylolisthesis, lumbar spinal stenosis",NA,Male,57,28.22 ,36.78 ,36.55 ,/,/,/,/,38.02 ,29.70 ,/,35.99 ,37.14 ,/,35.96 ,30.30 ,33.23 ,33.05 ,38.54 ,/,/,38.49 
+474,CON,Thyroid nodule,NA,Female,58,28.86 ,37.37 ,35.73 ,/,/,/,/,/,31.76 ,/,35.62 ,/,/,/,33.34 ,36.66 ,35.31 ,38.18 ,/,/,/
+475,CON,"Cerebral infarction, atherosclerotic heart disease",NA,Female,75,29.94 ,37.85 ,36.14 ,/,/,/,/,/,32.66 ,/,36.89 ,/,/,38.13 ,31.63 ,34.31 ,34.70 ,36.95 ,/,/,/
+476,CON,"Basal ganglia hemorrhage, malignant hypertension, hyperbilirubinemia",NA,Male,59,30.10 ,38.09 ,37.00 ,/,/,/,/,/,34.12 ,/,/,/,/,/,32.10 ,33.54 ,35.36 ,/,/,/,/
+478,CON,"Removal of fracture internal fixation, malignant hypertension, hyperbilirubinemia",NA,Female,76,27.21 ,36.76 ,37.12 ,/,/,/,26.86 ,38.46 ,29.76 ,/,28.77 ,/,/,34.54 ,26.60 ,35.73 ,32.64 ,/,/,/,/
+479,CON,"Basal ganglia hemorrhage, atherosclerotic heart disease, malignant hypertension, hyperbilirubinemia",NA,Male,73,29.69 ,/,35.86 ,/,/,/,/,/,32.45 ,/,/,/,/,35.31 ,32.40 ,32.96 ,38.50 ,/,/,/,/
+493,CON,Sequelae of cerebral infarction,NA,Male,70,28.68 ,36.75 ,37.49 ,/,/,/,/,/,31.58 ,/,32.20 ,/,/,/,31.53 ,33.75 ,/,/,/,/,/
+494,CON,Cholecystolithiasis chronic cholecystitis,NA,Male,48,29.22 ,36.30 ,36.92 ,/,/,/,/,/,32.28 ,/,34.22 ,/,/,33.95 ,27.67 ,33.60 ,35.23 ,38.48 ,/,/,/
+498,CON,"Hip joint pain, lumbar disc herniation",NA,Female,55,30.41 ,37.70 ,38.44 ,/,/,/,/,/,32.95 ,/,36.74 ,/,/,37.76 ,32.85 ,34.87 ,37.18 ,/,/,/,/
+499,CON,Postoperative pain of fracture internal fixation,NA,Female,61,30.42 ,/,38.44 ,/,/,/,/,38.71 ,32.54 ,/,/,/,/,39.01 ,35.48 ,36.13 ,36.07 ,/,/,/,/
+421,CON,"Pulmonary mass, specific pulmonary hypertension",NA,Male,70,30.94 ,38.30 ,/,/,/,/,/,/,33.43 ,/,37.94 ,/,/,/,35.73 ,37.64 ,37.23 ,/,/,/,/
+427,CON,Hemoptysis,NA,Female,61,29.71 ,/,/,/,/,/,/,37.40 ,32.06 ,/,37.89 ,/,/,37.77 ,30.60 ,34.73 ,34.37 ,38.12 ,/,/,/
+506,CON,Chronic obstructive pulmonary disease,NA,Male,72,27.84 ,/,32.64 ,/,/,/,/,36.17 ,30.63 ,/,33.70 ,38.09 ,/,33.46 ,24.60 ,32.28 ,32.54 ,34.56 ,/,/,38.22 
+507,CON,"Pelvic fracture, intracranial injury with prolonged coma, closed fibular fracture, subarachnoid hemorrhage, rib fracture, lumbar vertebral fracture, multiple contusions, hemorrhagic shock",NA,Female,57,30.39 ,/,38.41 ,/,/,/,/,/,34.70 ,/,/,/,/,39.15 ,32.60 ,37.56 ,/,35.28 ,/,/,/
+509,CON,Transplant status of organs and tissues,NA,Male,52,30.22 ,/,38.10 ,/,/,/,/,/,31.49 ,/,36.61 ,/,/,/,34.16 ,/,39.19 ,/,/,/,/
+511,CON,Lumbar vertebral fracture,NA,Female,48,32.14 ,37.41 ,36.53 ,/,/,/,/,/,34.49 ,/,37.68 ,/,/,/,31.47 ,37.50 ,37.59 ,/,/,/,/
+514,CON,Atherosclerotic heart disease,NA,Female,85,29.41 ,36.88 ,34.27 ,/,/,/,/,/,32.13 ,/,35.80 ,/,/,34.87 ,32.63 ,32.35 ,34.67 ,/,/,/,/
+515,CON,"Rotator cuff injury, adhesive capsulitis of shoulder joint, type 2 diabetes mellitus, hypertension",NA,Male,57,25.74 ,33.48 ,34.15 ,/,/,/,26.97 ,36.09 ,28.90 ,/,32.25 ,/,/,34.46 ,26.61 ,34.06 ,33.39 ,37.72 ,/,/,/
+523,CON,Atherosclerotic heart disease,NA,Male,67,30.10 ,/,37.22 ,/,/,/,/,/,34.34 ,/,/,/,/,/,34.27 ,/,39.11 ,36.52 ,/,/,/
+524,CON,"Traumatic amputation of single finger, upper limb laceration",NA,Male,56,27.68 ,32.77 ,35.72 ,34.46 ,/,34.78 ,/,33.37 ,28.53 ,/,31.89 ,34.28 ,/,34.06 ,22.01 ,33.76 ,34.50 ,35.98 ,/,/,32.04 
+525,CON,"Idiopathic thrombocytopenic purpura, bronchiectasis, asthmatic bronchitis, pulmonary mass",NA,Female,50,29.20 ,37.23 ,36.68 ,/,/,/,/,/,32.17 ,/,35.43 ,38.06 ,/,36.28 ,31.48 ,34.52 ,32.61 ,37.01 ,/,/,/
+570,CON,,NA,Male,72,30.55 ,/,38.46 ,/,/,/,/,37.55 ,33.24 ,/,37.35 ,38.18 ,/,34.76 ,36.71 ,35.20 ,34.33 ,/,/,/,/
+572,CON,,NA,Female,56,29.19 ,/,/,/,/,/,/,/,30.31 ,/,35.68 ,/,/,/,33.22 ,34.24 ,35.90 ,/,/,/,/
+573,CON,,NA,Male,70,30.42 ,37.44 ,36.49 ,/,/,/,/,37.48 ,33.30 ,/,37.76 ,37.69 ,/,36.13 ,28.70 ,34.20 ,32.63 ,/,/,/,/
+574,CON,,NA,Male,48,31.20 ,/,/,/,/,/,/,/,32.85 ,/,36.78 ,/,/,36.46 ,32.47 ,33.48 ,36.36 ,/,/,/,/
